@@ -1,0 +1,10 @@
+{
+  "name": "ai-player-mobile",
+  "displayName": "AI Player Mobile",
+  "subtitle": "Mobile AI co-pilot: miners, defenders and compact HUD",
+  "author": "donatodiaz",
+  "description": "Mobile version of AI Player for Mindustry v8.\n\n[accent]Features:[]\n- Fair AI miners and defenders with real resource costs.\n- Dynamic support for Exogenesis and New Horizon units and ores.\n- Compact collapsible HUD on the right side.\n- No local LLM: Android devices do not need to run Ollama.\n- Works without Java mods; uses Mindustry scripts.\n\nUse the small AI button on the right side to expand the panel and toggle the AI.",
+  "version": "0.1.0",
+  "minGameVersion": "160",
+  "softDependencies": ["exogenesis", "new-horizon"]
+}

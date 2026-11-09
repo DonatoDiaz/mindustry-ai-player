@@ -1,0 +1,5 @@
+build/
+mobile/build/
+.idea/
+*.iml
+*.log
